@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.example.drawingapp.DrawingView
+    <com.example.drawingapp.gitScriibleapp.DrawingView
         android:id="@+id/drawing_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
