@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
             showBrushSizeChooserDialog()
         }
 
+
     }
 
     private fun showBrushSizeChooserDialog(){
